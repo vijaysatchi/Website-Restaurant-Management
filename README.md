@@ -1,7 +1,7 @@
 # Website-Restaurant-Management
 
-The link will no longer work after May of 2023, but I have included pictures to see what work has been done.
-http://34.95.13.10/FrontEnd2/
+The live site is no longer publicly hosted, but I’ve included screenshots to demonstrate the project’s functionality and design.
+http://34.95.13.10/
 
 Here are the example logins:
 - Username: McDonald’s
@@ -16,3 +16,5 @@ This is a website I made for the basic purpose of learning how to use the techno
 - Kubernetes
 - Docker
 - Apache Tomcat
+
+Images:
